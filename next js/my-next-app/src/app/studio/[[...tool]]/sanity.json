@@ -1,0 +1,24 @@
+{
+  "name": "default",
+  "title": "Sanity Project",
+  "basePath": "/studio",
+  "projectId": "7gq8uk9l",
+  "dataset": "mapdata",
+  "schema": {
+    "types": [
+     
+    ]
+  },
+  "plugins": [
+    {
+      "name": "deskTool",
+      "config": {}
+    },
+    {
+      "name": "visionTool",
+      "config": {
+        "defaultApiVersion": "2024-08-21"
+      }
+    }
+  ]
+}
